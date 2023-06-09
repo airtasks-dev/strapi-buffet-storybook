@@ -27,6 +27,3 @@ coverage/*
 .out/*
 configuration.json
 .vscode
-
-package-lock.json
-yarn.lock
